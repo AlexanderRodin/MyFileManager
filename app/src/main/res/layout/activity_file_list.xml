@@ -6,7 +6,7 @@
     tools:context=".presentation.FileListActivity">
 
     <TextView
-        android:id="@+id/nofiles_textview"
+        android:id="@+id/no_files_textview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
